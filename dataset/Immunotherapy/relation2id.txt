@@ -1,0 +1,7 @@
+infer	0
+decreases	1
+inferred	2
+marker/mechanism	3
+increases	4
+affects	5
+therapeutic	6

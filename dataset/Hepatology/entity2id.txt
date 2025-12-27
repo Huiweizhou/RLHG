@@ -1,0 +1,1688 @@
+glutathione	0
+Drosha	1
+chrysin	2
+spinal cord injury	3
+apolipoprotein B.	4
+sterols	5
+alcohol intoxication	6
+insulin-dependent (type I) diabetes mellitus	7
+fucoidan	8
+polydatin	9
+YTHDF1	10
+GABA	11
+nasopharyngeal carcinoma	12
+Osteopontin	13
+HTLV-III	14
+ferritin heavy polypeptide 1	15
+Ba++	16
+AMPKalpha1	17
+Morroniside	18
+Histone H1	19
+Liver Type Fatty Acid Binding Protein	20
+heat shock transcription factor 1	21
+diabetic angiopathy	22
+Vitamin A	23
+TIMP-4	24
+Trace Element	25
+N-hydroxy-N'-(4-butyl-2-methylphenyl)formamidine	26
+efavirenz	27
+bone loss	28
+cognitive impairment	29
+thioctic acid	30
+epithelial ovarian carcinoma	31
+Fbw7	32
+EHBP1	33
+Cr(VI)	34
+cadmium chloride	35
+imiquimod	36
+COL1A1	37
+OGD	38
+bile duct ligated	39
+Alantolactone	40
+advanced glycation end products	41
+Orlistat	42
+ulcer	43
+alcoholic cirrhosis	44
+phytosteroids	45
+Mg++	46
+EfnB2	47
+ornithine	48
+Nootkatone	49
+hydrocortisone	50
+FKHRL1	51
+methionine	52
+azathioprine	53
+creatine	54
+propiverine	55
+lignans	56
+primary tumor	57
+burn	58
+simvastatin	59
+Akt2	60
+Alpl	61
+bisphosphonate	62
+p27kip1	63
+rosuvastatin	64
+curcumin	65
+liver tumor	66
+alcoholic	67
+PGC1alpha	68
+selenoprotein P	69
+bone formation	70
+TFEB	71
+invasive lobular carcinoma	72
+schizophrenic	73
+RUT	74
+cobalt	75
+Pifithrin-alpha	76
+melanoma	77
+NTHL1	78
+dextran sulfate	79
+ketone	80
+NADPH	81
+iron salt	82
+portal hypertensive	83
+SHP-1	84
+betulinic acid	85
+GLUT1	86
+sulfenic acid	87
+glutathione reductase	88
+abortions	89
+fenofibrate	90
+filipin III	91
+Severe	92
+Mnk	93
+NDC80	94
+Sphk1	95
+kaempherol	96
+thiazolidinediones	97
+SGLT-2	98
+folate deficiency	99
+COBLL1	100
+multiple sclerosis	101
+GTPase-activating protein SH3 domain-binding protein 1	102
+FABP5	103
+EX527	104
+N6-methyladenosine	105
+Dexamethasone	106
+Mi-2beta	107
+Pimavanserin	108
+infarct	109
+polyunsaturated fatty acids	110
+bisphenol F	111
+FABP4	112
+2,3,7,8-Tetrachlorodibenzo-p-dioxin	113
+AXIN1	114
+thapsigargin	115
+cobalt chloride	116
+6-pentadecylsalicylic acid	117
+daphnetin	118
+amyotrophic lateral sclerosis	119
+sodium urate	120
+stearic acid	121
+Nox-2	122
+hypothermia	123
+spleen hypertrophy	124
+hyaluronic acid	125
+chlorogenic acid	126
+linoleic acid	127
+APOs	128
+oligofructose	129
+propidium iodide	130
+free fatty acid	131
+sex hormone binding globulin	132
+low density lipoprotein receptor	133
+AC 2993	134
+Adenosine	135
+osteoporosis	136
+ellagitannins	137
+Al lactate	138
+GLUT4	139
+tau	140
+teniposide	141
+cyclodextrin	142
+sickle cell anemia	143
+lipopolysaccharides	144
+AS1842856	145
+JNK	146
+TAA	147
+STEAP4	148
+MFF	149
+diabetes mellitus	150
+glutamine	151
+phalloidin	152
+Leupeptin	153
+gadolinium chloride	154
+Ku70	155
+cerium	156
+HDAC2	157
+hyperphagia	158
+azoles	159
+gallstone formation	160
+triphenyl phosphate	161
+thyroid tumors	162
+tauro-alpha-muricholic acid	163
+CDCA	164
+CCl4	165
+PNPLA2	166
+p-cresol sulfate	167
+Ginsenoside Rg1	168
+tanshinones	169
+male gamete abortion	170
+astaxanthin	171
+corticosterone	172
+lysine	173
+pazopanib	174
+Nox1	175
+cannabidiol	176
+Mitozantrone	177
+preeclampsia	178
+bile acid receptor	179
+High-fructose corn syrup	180
+ketone body	181
+renal function deficits	182
+pregnancy-related problems	183
+phosphorus	184
+Canagliflozin	185
+isoproterenol	186
+bazedoxifene	187
+GW9662	188
+Arsenate	189
+wortmannin	190
+cytokeratin 1	191
+oligosaccharides	192
+Isochlorogenic acid A	193
+raubasine	194
+insulin	195
+17beta-estradiol	196
+CD4	197
+1,2,3,4,6-pentagalloylglucose	198
+porphyrin	199
+HDAC6	200
+non-small cell lung cancer	201
+alphaSMA	202
+urea	203
+labetalol	204
+eicosanoids	205
+overweight	206
+PT	207
+mesenteric dilation	208
+psoriasis	209
+folic acid	210
+1,2-dimethylhydrazine	211
+SPG20	212
+5-methylcytosine	213
+epidermal growth factor receptor	214
+pontobulbar palsy	215
+intracranial hemorrhage	216
+CYP7A1	217
+ovarian carcinoma	218
+vitamin B12	219
+ABCG5	220
+25-hydroxy vitamin D	221
+SERCA-2	222
+-independent	223
+Autotaxin	224
+fenretinide	225
+IL-17	226
+eicosatetraenoic-acid	227
+baicalin	228
+Azilsartan	229
+FGF15	230
+m6A	231
+flt-1	232
+PCI-32765	233
+abdominal aortic constriction	234
+Nonalcoholic fatty liver disease	235
+tenascin	236
+sarcomas	237
+buthionine sulfoximine	238
+adrenaline	239
+T2	240
+fluoride	241
+sexual dysfunction	242
+peritonitis	243
+apolipoprotein A-I and B	244
+Stearoyl-CoA Desaturase-1	245
+steroid	246
+GTP	247
+stroke	248
+glutathione disulfide	249
+mdm2	250
+Silicon	251
+naringenin	252
+alcoholic liver damage	253
+Dementia	254
+PPAR delta	255
+beta-glucuronidase	256
+tumorigenesis	257
+cytokeratin 10	258
+Carnitine	259
+BACE1	260
+GW3965	261
+TUBB2B	262
+choroidal neovascularization	263
+miR-26a-1	264
+Experimental allergic encephalomyelitis	265
+Ginsenosides	266
+XMU-MP-1	267
+PJ34	268
+alveolar bone loss	269
+glycosides	270
+amiodarone	271
+chimeric antigen receptor	272
+superoxide dismutase	273
+sodium arsenite	274
+hsa-miR-145-	275
+ApoE	276
+pruritus	277
+copper	278
+hepatomegaly	279
+calciol	280
+ERK1	281
+IGF2BP1	282
+aspartate	283
+muscle damage	284
+risperidone	285
+triazole	286
+Empagliflozin	287
+XBP-1	288
+hepatitis	289
+insulin-like growth factor 1	290
+cysteine	291
+ezetimibe	292
+NaF	293
+bone morphogenetic protein 6	294
+glioblastoma	295
+gasogenic infections	296
+genestein	297
+chronic liver injury	298
+EP3	299
+testicular inflammatory reactions	300
+meso-Dihydroguaiaretic acid	301
+matrix metalloproteinase 9	302
+depressed	303
+MCA tumor	304
+peroxiredoxin-5	305
+estrogen receptor beta	306
+EP1	307
+peripheral	308
+diabetic cardiomyopathies	309
+damage of the hippocampus	310
+topoisomerase II	311
+large tumor suppressor 1	312
+acute renal failure	313
+MMP-2	314
+medroxyprogesterone acetate	315
+ITS RELATIONS	316
+pulmonary hypertension	317
+EIF3H	318
+laminarin	319
+kidney lesions	320
+weight loss	321
+C-Reactive protein	322
+UTP	323
+(-)-epigallocatechin gallate	324
+bafilomycin A1	325
+MDA	326
+Pioglitazone	327
+anemia	328
+Interleukin 6	329
+Hey1	330
+Runx2	331
+fatty acid	332
+glutamic acid	333
+tamoxifen	334
+Aortic Aneurysms	335
+reduced renal mass	336
+albuminuria	337
+progesterone	338
+DRP1	339
+venous thromboembolism	340
+CORM-2	341
+ATM	342
+IP3R	343
+bleomycin	344
+atheromatous lesions	345
+ceramide	346
+cGMP	347
+autoimmune hepatitis	348
+SRT1720	349
+uracil	350
+Obeticholic acid	351
+gallic acid	352
+CYP4A1	353
+arsenite	354
+HETEs	355
+PNPLA3	356
+Metal	357
+Alisol B 23-acetate	358
+ginsenoside Rh2	359
+53BP1	360
+Zn	361
+lamivudine	362
+ketonuria	363
+PERK	364
+CTX	365
+exportin-1	366
+bone tumors	367
+flax-seed oil	368
+dichloromethylene diphosphonate	369
+sciatic nerve	370
+LIPT1	371
+ALKBH5	372
+alcohol	373
+thoracolumbar, and sacral trauma	374
+malondialdehyde	375
+LLT-HH	376
+hypertriglyceridemia	377
+osteo-arthrosis	378
+sudden death	379
+leukemic	380
+activating-transcription factor-4	381
+Cooley's anemia	382
+Nicotinamide mononucleotide	383
+long-chain acyl-CoA dehydrogenase	384
+nitrotyrosine	385
+dihydroceramide	386
+hypoxemia	387
+Silymarin	388
+lymphomas	389
+mental retardation	390
+benzo(a)pyrene	391
+hypotension	392
+HMGCS2	393
+olanzapine	394
+colorectal carcinoma	395
+RBMX	396
+myeloperoxidase	397
+hydroxyurea	398
+CE2	399
+Epiberberine	400
+blood glucose	401
+Olaparib	402
+selenium	403
+CD36 Deficiency Suppresses	404
+GROWTH	405
+malignant hepatitis	406
+4-PBA	407
+CD107a	408
+Sterility	409
+bile acid	410
+glycyrrhizin	411
+caspase-3	412
+Tauroursodeoxycholate	413
+poly amidoamine	414
+Vitamin E	415
+morbid obesity	416
+DIAGNOSIS	417
+YY1	418
+Bax	419
+sodium hydrosulfide	420
+hnRNP C	421
+Zucker fatty	422
+osteoprotegerin	423
+MK 886	424
+sterol regulatory element-binding protein 1c	425
+Wnt5a	426
+ADFP	427
+lactose	428
+diacylglycerol	429
+trehalose	430
+centromere protein F	431
+5-hydroxytryptamine	432
+HC	433
+Kynurenine	434
+endometrial carcinoma	435
+TBAR) substances	436
+B lymphoma	437
+MG149	438
+3-Deazaadenosine	439
+Halofuginone	440
+Dasatinib	441
+ISG15	442
+nervous	443
+fenvalerate	444
+acute lung injury	445
+hyperinsulinemia	446
+naringin	447
+essential oil	448
+Apolipoprotein C3	449
+neurodevelopmental abnormalities	450
+CES1	451
+Liquiritigenin	452
+dying	453
+inositol hexaphosphate	454
+HGF	455
+olive oil	456
+Isorhamnetin	457
+chloride ion	458
+breast cancer resistance protein	459
+gout	460
+tuberous sclerosis complex	461
+sarcopenia	462
+epigastric distress	463
+corn oil	464
+dimethyl formamide	465
+prostaglandins	466
+carotid artery occlusion	467
+extrapyramidal symptoms	468
+CELLS	469
+OATP1B1	470
+hepcidin	471
+Glucokinase	472
+hepatocyte growth factor (HGF) receptor	473
+cytomegalovirus	474
+SYSTEM	475
+neuronal diseases	476
+Fis1	477
+sulfide	478
+SRD5A2	479
+sodium	480
+REM sleep deprivation	481
+Arginine	482
+soybean oil	483
+PC	484
+noninsulin-dependent diabetes	485
+quercetin	486
+ABCG8	487
+butylated hydroxyanisole	488
+sodium oleate	489
+vildagliptin	490
+hypothalamic deiodinases	491
+SIRT4	492
+acetic acid	493
+acquired	494
+tumor metastases to the liver	495
+autism	496
+lysophosphatidic acid	497
+chronic renal disease	498
+PCSK9	499
+diamine oxidase	500
+androgen receptor	501
+glomerulonephritis	502
+endotoxemia	503
+2-hydroxypropyl-beta-cyclodextrin	504
+inherited metabolic disorders	505
+anaplastic carcinoma	506
+T,G)	507
+Sildenafil	508
+8-bromo-cAMP	509
+melphalan	510
+MIP-2	511
+LEISHMANIASIS	512
+lycopene	513
+of bile acid	514
+Indoleacetic acid	515
+pregnancy loss	516
+bcl-2	517
+threonine	518
+integrin alpha V beta 3	519
+Wilson's disease	520
+beta-hydroxy beta-methylbutyrate	521
+METTL14	522
+oligonucleotide	523
+Cardiovascular and respiratory toxicity	524
+hesperetin	525
+chronic diseases of the	526
+triclosan	527
+PRMT3	528
+loss of body weight	529
+nicotine	530
+crizotinib	531
+25-hydroxyvitamin D3	532
+pregnane x receptor	533
+arsenic trioxide	534
+Insulin-Like Growth Factor Binding Protein-5	535
+SMAD3	536
+riboflavin	537
+chloroquine	538
+tryptophan	539
+PTEN	540
+NG-nitro-L-arginine methyl ester	541
+gefitinib	542
+vitamin D	543
+PRKACA	544
+E2F3	545
+ferric ammonium citrate	546
+FDG	547
+baicalein	548
+Alzheimer's disease	549
+PLIN1	550
+rheumatoid arthritis	551
+nitrogen compound	552
+FTL	553
+lung cancer	554
+fatty acid translocase	555
+PIs	556
+tributyltin	557
+allergy	558
+FBPase-2	559
+honokiol	560
+SETD2	561
+delta-9-trans-tetrahydrocannabinol	562
+mental deterioration	563
+hydrogen	564
+SCN	565
+sesamin	566
+trametinib	567
+RAGE	568
+99mTechnetium	569
+p67phox	570
+isopropyl alcohol	571
+THRB	572
+asthma	573
+ATF6	574
+non-alcoholic steatohepatitis	575
+PTP1B	576
+p60	577
+sodium desoxycholate	578
+LY294002	579
+A II	580
+palmatine	581
+calcein acetoxymethyl ester	582
+zearalenone	583
+myeloma	584
+BDE-47	585
+Aflatoxins	586
+, and cerebellar peduncle lesions	587
+c-jun	588
+FOXA1	589
+HD 7	590
+flavones	591
+S6K1	592
+cyclooxygenase-2	593
+transport	594
+thrombosis	595
+ganglioside	596
+betaine	597
+12(S)-Hydroxy eicosatetraenoic acid	598
+paw swelling	599
+emodin	600
+liver kinase B1	601
+TNFAIP3	602
+schisandrin A	603
+CD68	604
+Azoxymethane	605
+lipid peroxide	606
+interferon-gamma	607
+benzene	608
+Slc2a3	609
+caffeic acid	610
+capsaicin	611
+Retinyl Palmitate	612
+Carcinogenic	613
+glucose-6-phosphate dehydrogenase	614
+IP-10	615
+HK3	616
+berberine	617
+osteocalcin	618
+beta-hydroxybutyrate	619
+cyanidin	620
+telmisartan	621
+adenine	622
+Bhmt	623
+amiloride	624
+brain dysfunction hyperactivity	625
+LysM	626
+resistin	627
+ATF-2	628
+insulin-like growth factor binding protein-4	629
+tebuconazole	630
+azidothymidine	631
+Melatonin	632
+renal failure	633
+Cyanidin-3-O-beta-glucoside	634
+ANTIGEN TOLERANCE THRESHOLD	635
+hypertensive	636
+ASC	637
+KAT13B	638
+mania	639
+FKHR	640
+ATP-Citrate Lyase	641
+gestational infections	642
+luteolin	643
+Dexmedetomidine	644
+LiCl	645
+ammonia	646
+dietary sugar	647
+27-hydroxycholesterol	648
+selenite	649
+BCR-ABL	650
+D-JNKI-1	651
+cytochrome P-450	652
+AS3MT	653
+triiodothyronine	654
+hippurate	655
+cervical carcinoma	656
+bumetanide	657
+pulmonary tubercolosis	658
+YAP	659
+-alpha 54, -beta	660
+interleukin-1	661
+PKCdelta	662
+CHOP	663
+myelodysplasia	664
+tapasin	665
+Dystonia	666
+Phosphoenolpyruvate Carboxykinase	667
+Ti	668
+nitric oxide	669
+AICAR	670
+lenvatinib	671
+heat shock protein 60	672
+miRNA-192	673
+Microsatellite instability	674
+ginsenoside compound K	675
+intellectualism	676
+Nicotinamide	677
+beta-carotene	678
+PPAR alpha	679
+SLC25A9	680
+C/EBP	681
+red-eye syndrome	682
+Ethionine	683
+carbohydrate	684
+DGAT1	685
+glucoside	686
+GW6471	687
+vascular disorders	688
+ursodeoxycholate	689
+Nod1	690
+miR122	691
+HMGCS1	692
+DNA repair disorder	693
+docosahexaenoic acid	694
+Cytochrome c	695
+bicyclol	696
+major depression	697
+TRIF	698
+2-Mercaptoethane-sulfonate	699
+cell carcinoma	700
+creatinine	701
+HO-1	702
+testosterone	703
+mercury	704
+diphenylene iodonium	705
+thiazolidinedione	706
+METTL3	707
+Schaftoside	708
+Corilagin	709
+cytochrome P-450 3A4	710
+insulin resistance	711
+hyperinsulinemic	712
+DESTRUCTION	713
+apocynin	714
+PKLR	715
+TSLP	716
+Bacterial infections	717
+FOXM1	718
+tissue transglutaminase	719
+SLP-1	720
+neuronal	721
+isoliquiritigenin	722
+palm oil	723
+Bim	724
+androgenic dysfunction	725
+CL316,243	726
+eucalyptol	727
+ethanol	728
+erythropoietin	729
+virus infections	730
+CXCR3	731
+neurological dysfunction	732
+nicotinamide phosphoribosyltransferase	733
+Dioscin	734
+myriocin	735
+myc	736
+myristic acid	737
+reticulum	738
+Sodium palmitate	739
+ABCG1	740
+trimethylamine	741
+unc-51-like kinase-1	742
+periodontal defects	743
+Sjogren's syndrome	744
+Pemafibrate	745
+CYP2B/2C	746
+fumaric acid	747
+ACY-1215	748
+IV	749
+T0901317	750
+18beta-Glycyrrhetinic Acid	751
+aorta-coarcted	752
+Atg7	753
+anthraquinone	754
+cholelithiasis	755
+ascorbic acid	756
+AMP-activated protein kinase	757
+endothelial damage	758
+HDAC	759
+PCNA	760
+alpha-linolenic acids	761
+autism spectrum disorders	762
+sirolimus	763
+mammary tumors	764
+Stat1	765
+sitagliptin	766
+TSK	767
+Amphiregulin	768
+lopinavir/ritonavir	769
+haptoglobin	770
+lipidosis	771
+ellagic acid	772
+metformin	773
+hyodeoxycholic acid	774
+dry eyes	775
+intestinal metaplasia	776
+oleic acid	777
+adenosine 3',5'-monophosphate	778
+Apoptosis signal-regulating kinase 1	779
+cytokeratin 18	780
+EP2	781
+CYP1A1	782
+ZMYND8	783
+GRB1	784
+arginase (and creatine transporter) deficiency	785
+brain injury	786
+stigmasterol	787
+dehydration	788
+cardiac systolic or diastolic dysfunction	789
+indole	790
+interleukin-8	791
+R(-)-2-hydroxyglutarate	792
+iodoacetic acid	793
+cirrhosis	794
+fats	795
+EP4	796
+T3N3M1 IVA	797
+bis(2-ethylhexyl)-2,3,4,5-tetrabromophthalate	798
+neurotoxic	799
+malabsorption	800
+RBP	801
+ascites	802
+afatinib	803
+eicosapentaenoic acid	804
+coronary atherosclerosis	805
+RESEARCH ON	806
+hypercholesterolemic	807
+Sauchinone	808
+BNIP3	809
+amide	810
+Urolithin A	811
+Niemann-Pick disease	812
+methotrexate	813
+Coptisine	814
+Fibroblast growth factor-21	815
+CaMKKbeta	816
+pentoxifylline	817
+hypogonadism	818
+cutaneous and visceral disease	819
+arbutin	820
+polyamine	821
+PGs	822
+ataxia	823
+acetyl-coenzyme A	824
+ischemic stroke	825
+p62	826
+MT-TP	827
+troxerutin	828
+rifampicin	829
+Turner syndrome	830
+obese	831
+interleukin-18	832
+toxic	833
+5-fluorouracil	834
+Uncoupling protein 2	835
+X-linked neurodevelopmental disorder	836
+Scd1	837
+Vaspin	838
+Z-VAD-FMK	839
+vitamin B6	840
+trichostatin A	841
+asperuloside	842
+MLXIPL	843
+Genipin	844
+endocannabinoid	845
+Perfluorooctane sulfonate	846
+lithocholic acid	847
+mucin 5b	848
+lipoprotein lipase	849
+thyroid diseases	850
+lysophosphatidylinositol	851
+Metabolic disorders	852
+carbon monoxide	853
+trans fatty acid	854
+FRalpha	855
+Hypercholesterolemia	856
+neurodegenerative disorders	857
+glucagon	858
+Model	859
+cholic acid	860
+Tetrahydrocurcumin	861
+RIP2	862
+bleeding	863
+hepatic fatty infiltration	864
+4-hydroxynonenal	865
+Rivalta's	866
+3,4-dihydroxyphenylethanol	867
+hyperplasia	868
+UCP1	869
+Trichloroacetic acid	870
+MK2206	871
+alkaloid	872
+cumene hydroperoxide	873
+phenobarbital	874
+hexokinase I	875
+propolis	876
+Scleroderma	877
+Parp3	878
+Pitavastatin	879
+insulin	880
+ABCA1	881
+left ventricular (LV) injury	882
+LOX-1	883
+ZSTK474	884
+7S-GAMMA	885
+selumetinib	886
+intrahepatic cholestasis	887
+Caspase-8	888
+inflammatory bowel diseases	889
+intrauterine growth retardation	890
+p38 MAP kinase	891
+taurine	892
+disorders of iron metabolism	893
+LIVER DISEASES	894
+diabetic sensory neuropathy	895
+nitrogen	896
+lovastatin	897
+SREBP2	898
+glucose	899
+gall bladder	900
+Beta-sitosterol	901
+rosiglitazone	902
+Lisinopril	903
+Aflatoxin B1	904
+ANGPTL4	905
+Punicalagin	906
+daidzein	907
+cadmium sulfate	908
+geniposide	909
+PAI-1	910
+lymphoproliferative malignancies	911
+ANTIBODY RESPONSE	912
+FK506	913
+fisetin	914
+interleukin-1 beta	915
+oligomycin	916
+psoralen	917
+cytochrome P-450 monooxygenase	918
+acute myeloblastic leukemia	919
+retinitis	920
+elafibranor	921
+AUTOIMMUNIZATION	922
+PKCalpha	923
+diabetic ketoacidosis	924
+GW501516	925
+epileptic	926
+YTHDF3	927
+NOVA	928
+dapagliflozin	929
+Parkin	930
+cytochrome P450 4A	931
+procyanidins	932
+endothelial leukocyte adhesion molecule-1	933
+chronic renal failure	934
+transferrin	935
+rT3	936
+FTA	937
+deferoxamine	938
+cardiolipin	939
+amoxicillin	940
+GLUT2	941
+galactose	942
+heart failure	943
+carbon	944
+Nrf2	945
+Linalool	946
+age-	947
+WY14643	948
+arachidonic acid	949
+tunicamycin	950
+Seipin	951
+ACOX1	952
+nitrosamine	953
+Bay 11-7085	954
+NADH	955
+carboxymethyl-cellulose	956
+amines	957
+PTC3	958
+gastric cancer	959
+STF-083010	960
+PGF-2-alpha	961
+salvianolic acid B	962
+adiponectin	963
+wedelolactone	964
+verapamil	965
+2,3,7,8-tetrachlorodibenzofuran	966
+isoleucine	967
+mTOR	968
+hsp90	969
+Oxyberberine	970
+polystyrene	971
+TrkA	972
+D-limonene	973
+1,25-(OH)2D3	974
+garcinol	975
+cystathionine gamma-lyase	976
+chromium	977
+Duct-Bellini carcinoma	978
+limb weakness	979
+glycogen storage disease	980
+matrine	981
+Osteogenesis imperfecta	982
+MOS	983
+oleuropein	984
+fibrocystic disease	985
+solute carrier family 31 member 1	986
+phenylephrine HCl	987
+N1-methylnicotinamide	988
+pancreatic hypertrophy	989
+catecholamines	990
+hypertrophic heart	991
+hypoxia-inducible factor 1alpha	992
+1,4-dihydroxy-anthraquinone	993
+saccharose	994
+coagulation of blood	995
+strontium	996
+IRE1alpha	997
+Endotoxicity	998
+anthocyanidin	999
+acyclic retinoid	1000
+aldehydes	1001
+myocardial neurodystrophies	1002
+evodiamine	1003
+CRELD2	1004
+valproic acid	1005
+endocrine suppression	1006
+RhoA.	1007
+IL-6R	1008
+fructose	1009
+4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone	1010
+ginsenoside Re	1011
+erlotinib	1012
+superoxide anion	1013
+L-dopa	1014
+dilauroylphosphatidyl-choline	1015
+HCP	1016
+glucose-6-phosphate	1017
+lactate	1018
+polyphenol	1019
+CYP2D1	1020
+vitamin A deficiency	1021
+p16INK4a	1022
+nitric oxide synthase	1023
+Glucose-6-phosphatase	1024
+diabetic nephropathy	1025
+sodium 4-phenylbutyrate	1026
+ribonucleoside	1027
+hMOF	1028
+sobetirome	1029
+constipated bowel	1030
+KIF4A	1031
+AT1 and AT2 receptor	1032
+ABCD	1033
+RU 486	1034
+Tyloxapol	1035
+isoxazole	1036
+24S-hydroxycholesterol	1037
+DETERMINATION	1038
+F 2 -isoprostanes	1039
+fluorocarbon	1040
+chronic hepatitis C.	1041
+dyslipidemia	1042
+pyrimidines	1043
+NRF-1	1044
+developmental delay	1045
+hypochlorous acid	1046
+sulfhydryl groups	1047
+weight gain	1048
+cholesterol	1049
+iridoid glycoside	1050
+ethyl acetate	1051
+aquaporin-9	1052
+BiP	1053
+oleanolic acid	1054
+TEAD4	1055
+FTO	1056
+cholate	1057
+estrogen receptor	1058
+manganese-superoxide dismutase	1059
+IFN-beta	1060
+letrozole	1061
+spermidine	1062
+Beclin 1	1063
+magnesium isoglycyrrhizinate	1064
+titanium dioxide	1065
+coronary heart disease	1066
+Carnosic Acid	1067
+necrotic skin lesions	1068
+diosmin	1069
+occludin	1070
+abnormal	1071
+desmosterol	1072
+gastrointestinal motility	1073
+eugenol	1074
+apigenin	1075
+polycystic ovary syndrome	1076
+SLC19A3	1077
+5-azacytidine	1078
+chemerin	1079
+25-hydroxycholesterol	1080
+phospholipid	1081
+Oatp1	1082
+GLP-1	1083
+galangin	1084
+paracetamol	1085
+short-chain fatty acids	1086
+hyperandrogenism	1087
+silibinin	1088
+atorvastatin	1089
+pyruvic acid	1090
+canola oil	1091
+SR-18292	1092
+Revlimid	1093
+I or III fractures	1094
+lard	1095
+FDG	1096
+RHAMM	1097
+ulcerative colitis	1098
+acyl-CoA	1099
+cerebral ischemia	1100
+BAPTA/AM	1101
+Rifaximin	1102
+SB-431542	1103
+fibrinogen-like protein 2	1104
+taxol	1105
+Ergothioneine	1106
+water	1107
+sphingomyelin	1108
+GSTP1	1109
+eIF2alpha	1110
+bortezomib	1111
+picropodophyllin	1112
+5 alpha-dihydrotestosterone	1113
+monocrotaline	1114
+IL 10	1115
+LCN2	1116
+reperfusion-induced injury	1117
+streptozotocin	1118
+synaptic dysfunction	1119
+dimethyl sulfoxide	1120
+Cholecystokinin octapeptide	1121
+sphingosine	1122
+meclofenamic acid	1123
+Nicorandil	1124
+OLFM4	1125
+fluvastatin	1126
+P glycoprotein	1127
+berbamine	1128
+CYP7B1	1129
+DHA	1130
+palmitate	1131
+corylin	1132
+CREBZF	1133
+YTHDC2	1134
+microtubule-associated proteins 1A/1B light chain 3B	1135
+Serpina3n	1136
+acyl-CoA:cholesterol acyltransferase	1137
+Extrahepatic Bile Duct Stones	1138
+diamide	1139
+clozapine	1140
+salicylate	1141
+5-aminosalicylic acid	1142
+SHAM	1143
+fatty acid synthase	1144
+Dihydromyricetin	1145
+ANTI-P-AZOBENZENEARSONATE	1146
+proanthocyanidin B2	1147
+diabetic complications	1148
+monounsaturated fatty acids	1149
+non-neuronal enolase	1150
+TGF-beta, type 2	1151
+methamphetamine	1152
+glycyrrhetinic acid	1153
+imipramine	1154
+ZEB-1	1155
+iron	1156
+miR-27b	1157
+lactulose	1158
+OXIDATIVE PHOSPHORYLATION	1159
+L-homocysteine	1160
+RNS	1161
+peroxisome diseases	1162
+AST	1163
+rutin	1164
+cilostazol	1165
+Leu-2/T8	1166
+depress the cardiovascular system	1167
+docetaxel	1168
+zafirlukast	1169
+atherogenesis	1170
+myo-inositol	1171
+pyrexia	1172
+2-arachidonoylglycerol	1173
+Pralatrexate	1174
+PPAR gamma	1175
+essential hypertension	1176
+age-related macular degeneration	1177
+monensin	1178
+epidermal growth factor	1179
+male infertility	1180
+diphenyl	1181
+bladder tumor	1182
+PCB 126	1183
+Fas	1184
+Butyrate	1185
+6-Phosphogluconate Dehydrogenase	1186
+dihomo-gamma-linolenic acid	1187
+hyperuricemia	1188
+hesperidin	1189
+flavonoids	1190
+Ischemia	1191
+SIRT1	1192
+GW 1929	1193
+PENICILLINASE-NEGATIVE STAPHYLOCOCCI	1194
+IGF-I receptor	1195
+Siewert II/III adenocarcinoma of esophagogastric junction	1196
+RXRalpha	1197
+ATP	1198
+glycogen	1199
+malaria	1200
+motor impairment	1201
+hyperhomocysteinemia	1202
+tumorigenic	1203
+thiostrepton	1204
+dutasteride	1205
+EHD2	1206
+MT 2	1207
+pneumonia	1208
+tenofovir	1209
+thioredoxin	1210
+stavudine	1211
+YTHDF2	1212
+perfluorooctanoic acid	1213
+p21	1214
+of the ovary, cervix, lung, and liver	1215
+Dysfunctional HDL	1216
+pain	1217
+Saikosaponin a	1218
+beta-glucan	1219
+KLF6	1220
+Sorafenib	1221
+H2S	1222
+alpha3B	1223
+labdane diterpene	1224
+cardiac arrhythmias	1225
+aluminium	1226
+L-serine	1227
+esculetin	1228
+polychlorinated biphenyls	1229
+MafF	1230
+Troglitazone	1231
+erastin	1232
+LC3	1233
+ruthenium red	1234
+NPC1L1	1235
+8-iso-PGF(2alpha)	1236
+Embryonic lethality	1237
+STRN	1238
+bilirubin	1239
+-overload	1240
+SLC22A7	1241
+microvascular and macrovascular diabetic complications	1242
+AMP-activated protein kinase	1243
+cyclin B1	1244
+NQO-1	1245
+MICB	1246
+MT2	1247
+Stat3	1248
+lysophosphatidylcholine	1249
+CREB	1250
+CREB3L3	1251
+thyroxin	1252
+nicotinic acid	1253
+heavy metal	1254
+a disintegrin and metalloproteinase (ADAM)9	1255
+TRMT10C	1256
+muscular dystrophies	1257
+hyperglycemia	1258
+STO-609	1259
+Thymoquinone	1260
+salsalate	1261
+cadmium	1262
+TAK-875	1263
+enzalutamide	1264
+dehydroepiandrosterone-sulfate	1265
+cis-dichlorodiammineplatinum-II	1266
+histone H4	1267
+GPX1	1268
+bisphenols	1269
+traumatic CNS injury	1270
+S-adenosylhomocysteine	1271
+spinal cord pain	1272
+metastatic-renal cell carcinoma	1273
+SOCS3	1274
+xanthurenic acid	1275
+GPR40	1276
+acetate	1277
+malate	1278
+adriamycin	1279
+DDC	1280
+acute renal tubular epithelial cells necrosis	1281
+CPT1a	1282
+sphingosine-1-phosphate	1283
+taurocholate	1284
+retinoic acid	1285
+ALD	1286
+monosodium glutamate	1287
+SLC7A11	1288
+clinical	1289
+dextran	1290
+GW4064	1291
+gastric and pancreatic tumors	1292
+MODY1 diabetes	1293
+carotid plaques	1294
+Lipin1	1295
+metabolic disturbances	1296
+saline	1297
+phthalate	1298
+osteosarcoma	1299
+felbamate	1300
+cholangiocarcinoma	1301
+cholesteryl ester	1302
+aryl hydrocarbon hydroxylase	1303
+gemcitabine	1304
+liver cirrhosis	1305
+cobimetinib	1306
+nucleoside	1307
+PBS	1308
+puerarin	1309
+thiamine	1310
+impairment of memory	1311
+metastatic cancer of the prostate	1312
+glycolipid	1313
+pyruvate kinase M2	1314
+phosphatidic acid	1315
+hepatocellular carcinoma	1316
+resveratrol	1317
+neurobehavioral abnormalities	1318
+peroxide	1319
+inborn errors of metabolism	1320
+piceatannol	1321
+lipids	1322
+saponins	1323
+cough	1324
+diarrhea	1325
+ischemic necrosis	1326
+iodoacetamide	1327
+yangonin	1328
+salt	1329
+2',7'-dichlorofluorescein diacetate	1330
+methylene blue	1331
+TR	1332
+Coconut oil	1333
+MECHANISM OF LIBERATION	1334
+monocyte chemoattractant protein-1	1335
+PD-L1	1336
+CYN	1337
+neurological diseases	1338
+terpenes	1339
+ATF3	1340
+glucoraphanin	1341
+Sulforaphane	1342
+benzamide	1343
+caspase-7	1344
+glycine	1345
+fumonisin B1	1346
+Anti-maleyl antibody	1347
+acidic	1348
+Cardiac hypertrophy	1349
+PAPPA	1350
+(+)-cyanidanol-3	1351
+Microplastics	1352
+deoxynivalenol	1353
+vascular endothelial growth factor	1354
+adenocarcinomas of the lung	1355
+BBB disruption	1356
+p50	1357
+8-OH-dG.	1358
+pandemic	1359
+neomycin	1360
+valsartan	1361
+phloretin	1362
+cyclooxygenase 1	1363
+cholestasis	1364
+MCC	1365
+Wilms' tumor 1-associating protein	1366
+chromosomal abnormalities	1367
+apnea-hypopnea	1368
+finasteride	1369
+AMP	1370
+FABP6	1371
+4-OHT	1372
+oxaliplatin	1373
+Isoflavones	1374
+morin	1375
+Interleukin Enhancer Binding Factor 2	1376
+glycerin	1377
+palmitoleic acid	1378
+multiple organ failure	1379
+paeoniflorin	1380
+Indole-3-carbinol	1381
+N-acetyl-D-glucosamine	1382
+free radicals	1383
+Probucol	1384
+Rac	1385
+interleukin-1 beta converting enzyme	1386
+artemisinin	1387
+liver insufficiency	1388
+temozolomide	1389
+hydrogen peroxide	1390
+dabrafenib	1391
+Diosgenin	1392
+Indoxyl Sulfate	1393
+quinones	1394
+Swertiamarin	1395
+chronic alcoholism	1396
+ACC	1397
+RASSF1	1398
+nicotinamide riboside	1399
+cellulose	1400
+dichloroacetate	1401
+mouth infections	1402
+resolvin D1	1403
+O-GlcNAc	1404
+phosphatidylcholine	1405
+FGF-19	1406
+3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase	1407
+hypothyroid	1408
+caudal type homeobox transcription factor 2	1409
+oxygen radical	1410
+acetylsalicylic acid	1411
+Vps34	1412
+ADIPOR2	1413
+cannabinoid	1414
+Toll	1415
+ACTA2	1416
+C6-ceramide	1417
+abnormal movement of the limbs and trunk	1418
+Calycosin	1419
+hypoglycemia	1420
+acute liver failure	1421
+IL-6 receptor	1422
+PNU282987	1423
+hypertrophic left ventricles	1424
+isoquercitrin	1425
+catalase	1426
+histone deacetylase 4	1427
+colitis	1428
+manganese	1429
+Poly-[dA-dT]	1430
+cholesterol arteriosclerosis	1431
+post-traumatic stress disorder	1432
+albumin	1433
+fusaric acid	1434
+Visceral obesity	1435
+amphetamine	1436
+caffeine	1437
+phosphatidylethanolamine	1438
+BIOLOGICAL	1439
+N-acetylcysteine	1440
+celecoxib	1441
+methylene tetrahydrofolate reductase	1442
+Oleoylethanolamide	1443
+PGE-2	1444
+dystrophic lesions	1445
+dioxin	1446
+bezafibrate	1447
+myocardial ischemia	1448
+Didymin	1449
+methylseleninic acid	1450
+MIP-1 alpha	1451
+lysophosphatidylethanolamines	1452
+p47phox	1453
+citrate	1454
+Leptin	1455
+SR-BI	1456
+Ir	1457
+Actinomycin D	1458
+n-3 fatty acids	1459
+venetoclax	1460
+Glutathione S-transferase	1461
+tetracycline	1462
+clarithromycin	1463
+diethylnitrosamine	1464
+FGF-1	1465
+pilocarpine	1466
+drugs of abuse	1467
+genetic defect	1468
+SP600125	1469
+Leu	1470
+transferrin receptor	1471
+lactate dehydrogenase (LDH)-A	1472
+carboxylic acid	1473
+squalene	1474
+NBS1	1475
+retinal autoimmune disease	1476
+GPD2	1477
+PARP	1478
+prolactin	1479
+calcium	1480
+Ara-C	1481
+leptin receptor	1482
+PDK-1	1483
+oxygen	1484
+metabolic bone diseases	1485
+EC	1486
+PINK1	1487
+vascular calcification	1488
+Bisphenol A	1489
+Malonyl-CoA	1490
+Myricetin	1491
+RelA	1492
+gpt	1493
+p53	1494
+MPTP	1495
+Guggulsterone	1496
+Salidroside	1497
+danthron	1498
+alpha-ketoglutarate	1499
+starch	1500
+SCAP	1501
+gliomas	1502
+docosapentaenoic acid	1503
+vomiting	1504
+ritonavir	1505
+End-Stage Liver Disease	1506
+remdesivir	1507
+norepinephrine	1508
+fibrates	1509
+glycogen storage disease type I	1510
+vitamin D receptor	1511
+succinate	1512
+fluorine	1513
+angiotensin-converting enzyme-2	1514
+indole propionic acid	1515
+hyperlipemia	1516
+renal cancer	1517
+chronic hepatitis B	1518
+fucoxanthin	1519
+PS 2	1520
+CO2	1521
+HER2/neu	1522
+levo-tetrahydropalmatine	1523
+ovarian	1524
+lung injury	1525
+OCT4	1526
+Celastrol	1527
+Puma	1528
+trimethylamine N-oxide	1529
+coumarins	1530
+dietary oils	1531
+aquaporin-3	1532
+liver necrosis	1533
+ADP	1534
+female infertility	1535
+diabetic retinopathy	1536
+sesame oil	1537
+parathyroid hormone	1538
+conjugated linoleic acid	1539
+P-450b	1540
+3-methyladenine	1541
+Lapatinib	1542
+acylcarnitines	1543
+ICG-001	1544
+ubiquinone	1545
+GLT-1	1546
+tempol	1547
+sirtuin 3	1548
+linezolid	1549
+phenols	1550
+heme	1551
+sleep-disordered breathing	1552
+necrosis	1553
+dobutamine	1554
+cyclosporin A	1555
+triterpenes	1556
+C-peptide	1557
+fish oil	1558
+follicular eruption	1559
+purines	1560
+Aliskiren	1561
+Tetramethylpyrazine	1562
+diffuse histiocytic lymphoma	1563
+SB 225002	1564
+biotin	1565
+IRS-1	1566
+PTC	1567
+andrographolide	1568
+carotene	1569
+tumor necrosis factor	1570
+NHE1	1571
+endometriosis	1572
+lipid metabolism disorder	1573
+ergosterol	1574
+iNOS	1575
+suberoylanilide hydroxamic acid	1576
+gentiopicroside	1577
+okadaic acid	1578
+iodine	1579
+polysaccharide	1580
+nausea	1581
+Etoposide	1582
+Anandamide	1583
+anti-D	1584
+peripheral vascular emboli	1585
+L-Amino acid	1586
+kynurenic acid	1587
+sodium butyrate	1588
+inulin	1589
+chlormethiazole	1590
+dihydroqinghaosu	1591
+vascular obstruction	1592
+caveolin-1	1593
+dimethyl fumarate	1594
+kininase II	1595
+hepatoblastoma	1596
+beta-galactosidase	1597
+Mrp2	1598
+squamous cell carcinoma of the head and neck	1599
+glucokinase regulatory protein	1600
+phosphatidylserine	1601
+vinblastine	1602
+phosphate	1603
+pantoprazole	1604
+sesquiterpenes	1605
+Kelch-like ECH-associated protein 1	1606
+Dihydroquercetin	1607
+osteoarthrotic cartilage	1608
+sensorineural hearing loss	1609
+cinnamaldehyde	1610
+CYP3A2	1611
+hearing loss	1612
+S1P2	1613
+sepsis	1614
+hemin	1615
+claudin-1	1616
+spironolactone	1617
+Ah receptor	1618
+neuropathic pain	1619
+DMP	1620
+MRP1	1621
+U0126	1622
+pyrethroid	1623
+B	1624
+HLA	1625
+sugar	1626
+autonomic failure	1627
+Cushing syndrome	1628
+inflammatory	1629
+acid sphingomyelinase	1630
+idiopathic hypogonadotropic hypogonadism	1631
+fracture	1632
+tuberous sclerosis complex 1	1633
+dipeptidyl peptidase IV	1634
+Cancer of the esophagus	1635
+arsenic	1636
+thrombospondin-1	1637
+acetylcholine	1638
+acromegaly	1639
+4-hydroxy-tamoxifen	1640
+MHY1485	1641
+retinoid	1642
+beta-catenin	1643
+NF-IL-6	1644
+ACSL4	1645
+PC	1646
+CYP2E1	1647
+ZO-1	1648
+Saroglitazar	1649
+ectopic pituitary	1650
+GPX4	1651
+dopamine deficiency	1652
+brain venous acidosis	1653
+coumarin	1654
+90K.	1655
+paraoxon	1656
+LXRalpha	1657
+NOD2	1658
+steroid hormone receptor coactivator (SRC)-1	1659
+degenerative disc disease	1660
+seizures	1661
+triglycerides	1662
+Atg5	1663
+omeprazole	1664
+ERK	1665
+StAR	1666
+pulmonary fibrosis	1667
+scoparone	1668
+artesunate	1669
+Hyocholic acid	1670
+cataract	1671
+parkinsonism	1672
+IGF2BP3	1673
+chronic hepatitis	1674
+zoledronate	1675
+RBM15	1676
+MDC1	1677
+abnormal glucose homeostasis	1678
+mammary carcinoma	1679
+choline	1680
+AGAINST AN	1681
+TFAM	1682
+Trp53	1683
+S-adenosyl-L-methionine	1684
+lymph node metastases	1685
+venous or arterial thrombosis	1686
+MLKL	1687
